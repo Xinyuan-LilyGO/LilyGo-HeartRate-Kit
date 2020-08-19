@@ -1,5 +1,7 @@
 ## **English | [中文](docs/README_CN.MD)**
 
+![](docs/IMAGE.jpg)
+
 # Use Arduino IDE
 1. Install the correct serial port driver [CP210X Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 2. Change `src/main.cpp` to `src.ino`

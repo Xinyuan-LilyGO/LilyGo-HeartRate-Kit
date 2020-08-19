@@ -1,5 +1,7 @@
 ## **[English](../README.MD) | 中文**
 
+![](IMAGE.jpg)
+
 # 使用Arduino IDE 
 1. 安装正确的串口驱动程序 [CP210X Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 1. 将`src/main.cpp` 更改为`src.ino`
