@@ -18,7 +18,7 @@ Windows users copy to `Documents/Arduino/libraries`
 In the examples directory contains two sample programs, `FactoryTest` is the factory test file,
 `HeartRateMeter` is a simple heart rate meter. You need to change the program. 
 You only need to copy the files in the directory to the src directory. 
-`Arduino` needs to be renamed to `src.ino`, and `PlatformIO` can be opened and compiled directly
+`Arduino IDE` needs to be renamed to `src.ino`, and `PlatformIO` can be opened and compiled directly
 
 
 

@@ -15,7 +15,7 @@
 
 
 # 示例说明
-在examples目录内包含两个示例程序，`FactoryTest` 为出厂测试文件,`HeartRateMeter` 为简单的心率计,需要更换程序 只需要将目录内文件拷贝到src目录，Arduino 需要更名为`src.ino` ,`PlatformIO` 则直接可以打开编译
+在examples目录内包含两个示例程序，`FactoryTest` 为出厂测试文件,`HeartRateMeter` 为简单的心率计,需要更换程序 只需要将目录内文件拷贝到src目录，Arduino IDE 需要更名为`src.ino` ,`PlatformIO` 则直接可以打开编译
 
 
 ## Datasheet
